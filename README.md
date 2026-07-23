@@ -22,10 +22,11 @@ By reducing food waste and improving food distribution, our project supports **U
 This project was inspired and developed using knowledge gained from the following Grow with Google learning resources:
 
 - Google IT Support Professional Certificate
+- IT Automstion with pyton Google professional certificate
+- Digital Marketing grow with google
 - Mentor Me Collective Build Phase
 - Git and GitHub collaboration practices
 - Technical documentation and project planning skills
-- Troubleshooting and testing methodologies
 - Team collaboration using GitHub
 
 These resources helped us understand how to work collaboratively, manage version control, document projects professionally, and build a real-world technical solution.
@@ -35,12 +36,7 @@ These resources helped us understand how to work collaboratively, manage version
 # ⚙️ Setup and Run Instructions
 
 ### Prerequisites
-
-- Git
-- Python
-- Firebase account
-- Google Maps API Key
-- Internet connection
+(To be added)
 
 ### Clone the repository
 
@@ -112,16 +108,7 @@ Documentation, GitHub submission, and presentation
 ---
 
 # 🚀 Features
-
-- User registration and login
-- Food donation listing
-- Pantry dashboard
-- Volunteer dashboard
-- Intelligent food matching
-- Location-based recommendations
-- Google Maps integration
-- Firebase database
-- Secure authentication
+(To be added)
 
 ---
 
