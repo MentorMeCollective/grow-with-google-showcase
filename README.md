@@ -1,81 +1,190 @@
-<div align="center">
+# Ember Alliance Project showcase
+# Smart Food Rescue Platform
 
-# 🌱 MMC × Grow with Google
-### *A Scholar-Built, Open-Source Showcase*
+**Mentor Me Collective – Grow with Google Build Phase Capstone Project**
 
-**Built by Scholars. Shared for the world. Extended by whoever's next.** 🚀
-
-</div>
+## Team Ember Alliance
 
 ---
 
-## 👋 What is this?
+# 🧠 What Our Project Does (and Why It Matters)
 
-Welcome to the official project showcase for **Mentor Me Collective's Grow with Google Program**. This is where our Scholars' Grow with Google projects live on — not tucked away in a private folder, but out in the open for future cohorts, mentors, and the broader community to explore, learn from, and **build on top of**.
+The Smart Food Rescue Platform is a digital solution that connects grocery stores, supermarkets, restaurants, food pantries, and volunteers to reduce food waste while addressing food insecurity.
 
-Think of it less like a submission dropbox and more like a **living library of what MMC Scholars can do** with the skills, tools, and certifications from Grow with Google. 🌱✨
+Every day, large amounts of edible food are discarded because there is no efficient way to connect food donors with organizations that need it. Our platform solves this problem by enabling vendors to list surplus food and automatically matching those donations with nearby food pantries based on location, urgency, and demand. Volunteers can then coordinate food collection and delivery.
 
-[Access Capstone Guidelines →](https://docs.google.com/document/d/1InNWpho03JfFCXKAuMmXqKNMXpoGoRerdZamuqvCQ2M/edit?tab=t.0)
-
----
-
-## 🎯 Why it exists
-
-| Goal | What it means |
-|---|---|
-| 📚 **Knowledge base** | Every project is a teaching artifact — not just a grade |
-| 🌱 **Growth over time** | See how Scholar skills evolve, cohort after cohort |
-| 🔁 **Build, don't restart** | Future Scholars can fork, extend, or remix past work |
-| 📣 **Proof of impact** | A public artifact MMC can point to with pride — for Google, partners, and future Scholars |
+By reducing food waste and improving food distribution, our project supports **United Nations Sustainable Development Goal (SDG) 2 – Zero Hunger** and demonstrates how technology can create positive social impact.
 
 ---
 
-## 🗂️ How it's organized
+# 🌱 Grow with Google Resources Used
+
+This project was inspired and developed using knowledge gained from the following Grow with Google learning resources:
+
+- Google IT Support Professional Certificate
+- IT Automstion with pyton Google professional certificate
+- Digital Marketing grow with google
+- Mentor Me Collective Build Phase
+- Git and GitHub collaboration practices
+- Technical documentation and project planning skills
+- Team collaboration using GitHub
+
+These resources helped us understand how to work collaboratively, manage version control, document projects professionally, and build a real-world technical solution.
+
+---
+
+# ⚙️ Setup and Run Instructions
+
+### Prerequisites
+(To be added)
+
+### Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
+
+### Navigate into the project
+
+```bash
+cd YOUR-REPOSITORY
+```
+
+### Install project dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Configure Firebase
+
+Create a Firebase project and add your configuration details.
+
+### Configure Google Maps API
+
+Create an API key and add it to your configuration file.
+
+### Run the application
+
+```bash
+python app.py
+```
+
+*(Update these instructions if your team's final application uses a different framework or startup command.)*
+
+---
+
+# 📁 Repository Structure
 
 ```
-📁 grow-with-google-showcase
- ┣ 📁 2026-cohort
- ┃ ┣ 📁 firstname-lastname-project-name
- ┃ ┃ ┣ 📄 README.md         ← project overview, tools/certs used, setup, what's next
- ┃ ┃ ┣ 📁 src/               ← the actual code or project files
- ┃ ┃ ┣ 📁 docs/               ← notes, screenshots, writeups
- ┃ ┃ ┗ 📄 LICENSE             ← MIT (or your pick) — so others can build on it
- ┣ 📁 2027-cohort
- ┃ ┗ ...
+README.md
+docs/
+src/
+assets/
+presentation/
+demo/
 ```
+## ⚙️ Implementation Plan
+
+### Phase 1
+
+Research and problem identification
+
+### Phase 2
+
+UI/UX design and system architecture
+
+### Phase 3
+
+Application development using Python and Firebase
+
+### Phase 4
+
+System testing and debugging
+
+### Phase 5
+
+Documentation, GitHub submission, and presentation
+---
+
+# 🚀 Features
+(To be added)
 
 ---
 
-## 🙋 Scholars: here's how to contribute
+# 👥 Team
 
-1. **Create your folder** → `/[current-cohort]/yourname-projectname`
-2. **Write a great README** for your project including:
-   - 🧠 What your project does (and why it matters)
-   - 🌱 Which Grow with Google resources you used (Career Certificates, Digital Garage, Applied Digital Skills, skill badges, etc.)
-   - ⚙️ Setup / run instructions (if applicable)
-   - 🔮 A **"Future Ideas"** section — leave breadcrumbs for the next cohort!
-3. **Add an open-source license** (MIT is our default) so future Scholars have clear permission to build on your work
-4. **Keep it clean** — comment your code, explain your thinking. Someone learning these skills for the first time might read this next year. Make it count. 💪
+**Team Ember Alliance**
+
+Project developed collaboratively during the Mentor Me Collective Build Phase.
+
+*(Add each team member's name and responsibilities here if your team agrees.)*
 
 ---
 
-## 🔮 Future Cohorts: start here first
+# 🧪 Testing
 
-Before you spin up a brand new project — **browse this repo.** 🔍
+The application is tested to verify that users can:
 
-You might find:
-- A project idea worth extending instead of duplicating
-- Real examples of how past Scholars applied their Grow with Google learning
-- Proof that yes, someone in your shoes already shipped something amazing
+- Register successfully
+- Log in securely
+- Submit food donations
+- Receive food matches
+- Accept delivery requests
+- Complete donation workflows
 
-Standing on the shoulders of Scholars before you isn't cheating — **it's the whole point.** 🌟
+Bug fixes and testing results are documented throughout development.
 
 ---
 
-<div align="center">
+# 🔮 Future Ideas
 
-### Built with 🌱, 💛, and a lot of `git push`
+We hope future Grow with Google Scholars continue building on this project.
 
-**Mentor Me Collective** — *engineering the pipeline to one million future leaders.*
+Possible improvements include:
 
-</div>
+- AI-powered food demand prediction
+- Mobile application for Android and iOS
+- Barcode and QR code scanning
+- Push notifications for volunteers
+- Real-time delivery tracking
+- Analytics dashboard for food waste reduction
+- Support for multiple languages
+- Integration with local charities and municipalities
+
+This project is designed to be a foundation that future cohorts can expand into a production-ready community platform.
+
+---
+
+# 📚 Lessons Learned
+
+During this project we learned how to:
+
+- Collaborate using GitHub
+- Work with branches and pull requests
+- Plan software projects as a team
+- Document technical work professionally
+- Build solutions for real-world problems
+- Apply agile teamwork and communication
+
+---
+
+# 📄 License
+
+## MIT License
+
+Copyright (c) 2026 Team Ember Alliance
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+---
+
+## Acknowledgements
+
+This project was created as part of the **Mentor Me Collective – Grow with Google Build Phase Capstone Program**.
+
+We thank our mentors, facilitators, and fellow scholars for their guidance, encouragement, and support throughout the project.
